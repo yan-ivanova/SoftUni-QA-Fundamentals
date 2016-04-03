@@ -1,4 +1,4 @@
 New file for QA Fundamentals
-
+2 bugs are founded
 -
 Bug Tracking Systems - github
